@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tommyfenwick9@hotmail.com
+	name = Tommy Fenwick
